@@ -1,0 +1,12 @@
+*
+
+!.gitignore
+!README.md
+!Makefile
+
+!program-1.c
+!program-2.c
+!program-3.c
+!program-4.c
+
+!WRITTEN.md
