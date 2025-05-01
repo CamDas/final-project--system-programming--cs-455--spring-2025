@@ -1,6 +1,6 @@
 ## ❖・Due・❖
 
-Thursday, 1 May 2025, at 3:00 PM. **`NO` late assignments will be accepted, unless you can provide documentation of an emergency.**
+Wednesday, 14 May 2025, at 10:00 PM. **`NO` late assignments will be accepted, unless you can provide documentation of an emergency.**
 
 ---
 
